@@ -14,7 +14,7 @@ const theme = createMuiTheme({
     type: 'dark',
     text: {
       primary: 'white',
-      secondary: 'lightgray',
+      secondary: 'black',
       disabled: 'gray',
       hint: 'white'
     }

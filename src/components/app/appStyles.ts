@@ -16,6 +16,9 @@ const styles = (theme : Theme) =>
     },
     appLink : {
       color : theme.palette.text.primary
+    },
+    card : {
+      marginTop : '10px'
     }
   });
 

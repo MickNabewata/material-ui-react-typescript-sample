@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './app';
 
 it('アプリケーションがクラッシュせずにレンダリングできるか否か', () => {
   const div = document.createElement('div');
